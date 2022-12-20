@@ -1,0 +1,28 @@
+.personalAccount__info{
+  box-shadow: 4px 4px 8px 0px rgb(34 60 80 / 67%);
+  padding: 40px 10px;
+  text-align: center;
+  margin: 40px 0;
+}
+.adminInformation{
+  display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+td{
+  
+  text-align: center;
+  padding: 0 32px;
+  border-left: solid;
+  border-top: solid;
+  border: solid;
+  
+}
+.tableLink{
+
+  a{
+    
+    margin: 10px;
+  }
+}
